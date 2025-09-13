@@ -34,9 +34,7 @@ h3{
     margin-left: 5px;
     min-width: 70px;
 }
-#start :hover{
-    background-color: rgba(0, 255, 0, 0.61);
-}
+
 #stop{
     background-color: red;
     font-size: 1.1em;
